@@ -1,7 +1,9 @@
 fin = open('words.txt')
-print(fin.readline())
+#print(fin.readline())
 
 line = fin.readline()
 word = line.strip(' ')
-print(word)
+#print(word)
+
+
 
